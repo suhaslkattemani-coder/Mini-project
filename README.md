@@ -121,7 +121,7 @@
     <div class="container">
         <!-- Local Repo -->
         <div class="box">
-            <h2>💻 Local Repository (Your PC)</h2>
+            <h2>Local Repository (Your PC)</h2>
             <ul id="localList"></ul>
         </div>
 
